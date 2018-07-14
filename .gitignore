@@ -1,0 +1,6 @@
+# IDE specific
+.vscode/
+
+# Application specific
+*.pyc
+__pycache__
